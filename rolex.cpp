@@ -134,8 +134,7 @@ int main()
 	
 	}
 	
-	cout<<"Please feel free if you have any Query or you want to get more information please click on the below link"<<endl;
-	cout<<"https://chat.whatsapp.com/CjHT2fCVuuG0TfJ0lQmAt4";
+	cout<<"Please feel free if you have any Query or you want to get more information "<<endl;
 }
 }
 
